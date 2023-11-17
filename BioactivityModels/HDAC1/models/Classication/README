@@ -1,1 +1,1 @@
-
+Under this folder, binary classification ML models available in skitlearn are tested by LazyPredict library and for selected ones, the hyperparameters are then optimized.
